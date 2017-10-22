@@ -1,10 +1,10 @@
 <?php
-echo "GRUPO 3";
-echo "REDES DE COMPUTADORES - ESTÁCIO DE SA - FUNDAMENTOS DE SI ";
-echo "DANIEL VICTOR";
-echo "DOUGLAS HENRIQUE";
-echo "FABIANO RODRIGUES";
-echo "GLAUCO LUIZ";
-echo "MARCELO FELIPE";
-echo "E NOIS!";
+echo "GRUPO 3\n";
+echo "REDES DE COMPUTADORES - ESTÁCIO DE SA - FUNDAMENTOS DE SI\n ";
+echo "DANIEL VICTOR \n";
+echo "DOUGLAS HENRIQUE \n";
+echo "FABIANO RODRIGUES \n";
+echo "GLAUCO LUIZ \n";
+echo "MARCELO FELIPE \n";
+echo "E NOIS! \n";
 ?>
