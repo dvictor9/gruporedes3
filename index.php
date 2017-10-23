@@ -3,6 +3,7 @@
   <body>
     <h1>Serviço web em nuvem</h1>
 <?php
+$texto = "Olá, \n vamor testar este comando pra ver. \n\n Att. \n Leonardo Luiz.\n";
 echo $texto;
 echo "GRUPO 3\n \r";
 echo "</br>";
