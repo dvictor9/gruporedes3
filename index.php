@@ -13,7 +13,7 @@ echo "DOUGLAS HENRIQUE \n \r";
 echo "</br>";
 echo "FABIANO RODRIGUES \n \r";
 echo "</br>";
-echo "GLAUCO LUIZ Mama a minha \n \r";
+echo "GLAUCO LUIZ \n \r";
 echo "</br>";
 echo "MARCELO FELIPE \n \r";
 echo "</br>";
